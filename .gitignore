@@ -5,3 +5,4 @@ Thumbs.db
 .vscode
 /dist
 /build
+/node_modules
