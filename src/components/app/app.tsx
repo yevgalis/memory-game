@@ -13,7 +13,7 @@ import typescript from '../../img/ts-logo.svg';
 import webpack from '../../img/webpack-logo.svg';
 import webstorm from '../../img/webstorm-logo.svg';
 
-const MAX_TURNS = 40;
+const MAX_TURNS = 20;
 const IMAGE_URLS = [firebase, nginx, nodejs, react, redux, typescript, webpack, webstorm];
 const CARD_FLIP_DELAY = 1000;
 
